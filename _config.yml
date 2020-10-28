@@ -21,8 +21,8 @@ defaults:
     layout: post
 email: meggy.barbier@hotmail.fr
 description: A blog about Japan
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 twitter_username: jekyllrb
 github_username: meggybarbier
 theme: minima
